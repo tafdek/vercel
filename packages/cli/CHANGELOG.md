@@ -1,5 +1,11 @@
 # vercel
 
+## 33.6.3
+
+### Patch Changes
+
+- Revert "[cli] extract `isZeroConfigBuild` into utility function (#11316)" ([#11350](https://github.com/vercel/vercel/pull/11350))
+
 ## 33.6.2
 
 ### Patch Changes
